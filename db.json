@@ -1,7 +1,15 @@
 {
-  "user": {
+  "contacts": [
+    {
     "id" : 1,
     "firstname": "Abhishek",
-    "lastname": "Vijayakumar"
+    "email": "aaa@gmail.com"
+  },
+    {
+    "id" : 2,
+    "firstname": "shekar",
+    "email": "sss@gmail.com"
   }
+  ]
+  
 }
