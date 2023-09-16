@@ -1,7 +1,7 @@
 {
   "contacts": 
-    [
-      {
+  [
+  {
     "id" : 1,
     "firstname": "Abhishek",
     "email": "aaa@gmail.com"
@@ -16,7 +16,5 @@
     "firstname": "nag",
     "email": "nag@gmail.com"
   }
-    ]
-  
-  
+  ]
 }
